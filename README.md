@@ -1,2 +1,5 @@
 # Hi there 👋 it's Brighton Barevo (BB) 
-[!(https://media.giphy.com/media/k9ubdyiX9kqRlmlweG/giphy.gif)]
+<h3 style="align=Center">
+  <img src="https://media.giphy.com/media/k9ubdyiX9kqRlmlweG/giphy.gif" width="3cm" height="3cm">
+</h3>
+
